@@ -1,0 +1,42 @@
+=pod
+
+=encoding utf8
+
+=head1 NAME
+
+README りーどみー
+
+
+=head1 SYNOPSIS
+
+  perldoc README.pod
+
+=head1 LIST
+
+=over
+
+=item A
+
+A a A
+
+=item B
+
+ B b B
+
+=back
+
+=head1 FORMATTING
+
+italic I<italic text>
+bold B<bold text>
+code C<code text>
+
+link L<prelre> / L<https://github.com/yunh> / L<github|https://github.com/>
+
+escape E<lt> . E<gt>
+C<$a E<lt>=E<gt> $b>
+
+filename F<C:\Windows> / F</tmp>
+nb S<this is not breakable>
+
+=cut
